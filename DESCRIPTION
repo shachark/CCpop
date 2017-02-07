@@ -1,0 +1,13 @@
+Package: CCpop
+Type: Package
+Title: One and two locus GWAS of binary phenotype with case-control-population design
+Version: 1.0
+Date: 2014-03-18
+Author: Shachar Kaufman
+Maintainer: Shachar Kaufman <shachark@post.tau.ac.il>
+Description: Tests of association between SNPs or pairs of SNPs and binary phenotypes, in case-control / case-population / case-control-population studies.
+Depends: nloptr, Rcpp (>= 0.10.3), RInside (>= 0.2.10)
+LinkingTo: Rcpp, RInside, RcppArmadillo
+License: GPL-2
+NeedsCompilation: yes
+Packaged: 2015-06-16 19:44:23 UTC; Shachar

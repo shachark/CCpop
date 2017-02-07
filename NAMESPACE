@@ -1,0 +1,3 @@
+useDynLib(CCpop)
+exportPattern("^[[:alpha:]]+")
+import(nloptr)
